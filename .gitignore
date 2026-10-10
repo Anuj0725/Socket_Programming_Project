@@ -1,0 +1,19 @@
+# Binaries and object files
+*.o
+*.a
+*.so
+server
+client
+
+# Checkpoint files and session logs
+*.tmp
+.checkpoint_*.json
+/tmp/cn_sessions/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE metadata
+.vscode/
+.idea/
