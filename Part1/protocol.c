@@ -1,4 +1,3 @@
-/* verified single buffer */
 /*
  * protocol.c - Binary protocol implementation
  * IT305 - Computer Networks Lab Project
